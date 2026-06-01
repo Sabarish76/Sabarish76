@@ -18,7 +18,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sabarishdev/" target="blank">
+<a href="https://www.linkedin.com/in/sabarishdeveloper/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
 </a>
 
